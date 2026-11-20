@@ -10,18 +10,21 @@ Bu sayfada yalnızca oyunun **test sürümleri** var. Oyun geliştirme aşaması
 4. Klasördeki **`HighNoonExpress.exe`**'ye çift tıkla.
    - Windows "Bilgisayarınız korundu" derse: **Ek bilgi** → **Yine de çalıştır**.
    - Güvenlik duvarı sorarsa: **İzin ver**.
-5. Oyun açılınca sağ üstte:
-   - **Oyunu kuran kişi:** **Host**'a basar.
-   - **Katılanlar:** **Lobileri yenile**'ye basar, kurucunun adının yanındaki **Katıl**'a basar.
-     Ya da kurucu oyunda **Arkadaş davet et** der, sen Steam'den gelen daveti kabul edersin (oyun açıkken).
+5. Oyun açılınca ana menü gelir:
+   - **Oyunu kuran kişi:** **Oyun kur**'a basar.
+   - **Katılanlar:** **Açık oyunlar** listesinde kurucunun adına basar (görünmüyorsa **Yenile**).
+     Ya da kurucu oyunda **Esc → Arkadaşını davet et** der, sen Steam'den gelen daveti kabul edersin (oyun açıkken).
 
 Steam'de oyun **"Spacewar"** diye görünür; bu normal, Steam'in test uygulamasını kullanıyoruz.
 
 ## Oyunda
 
+- Her oyuncunun **kendi treni** var; kendi treninin lokomotifinde başlarsın. Trenin, uzaktan **sarı çizgiyle** belli olur.
 - Yürü: **W A S D**, bak: fare, zıpla: **Boşluk**, ateş: sol tık.
-- Trene bin: üstüne çık ya da içine gir; tren seni taşır.
+- Trene bin: basamaklardan yürüyerek çık ya da içine gir; tren seni taşır. Vagondan vagona uç kapılardan geçilir.
 - **Treni sür:** lokomotife çık. **↑** gaz, **↓** fren, **← →** direksiyon, **P** otomatik sürüş.
+  Başkasının lokomotifine çıkarsan onunkini de sürersin; ikiniz birden basarsanız en son basan sürer.
+- **Esc:** menü (Ayarlar, Arkadaşını davet et, Bağlantıyı kes, Oyundan çık). Oyun durmaz.
 
 ## Yeni sürüm çıkınca
 
