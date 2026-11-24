@@ -1,37 +1,37 @@
-# High Noon Express — test sürümleri
+# High Noon Express — test builds
 
-Bu sayfada yalnızca oyunun **test sürümleri** var. Oyun geliştirme aşamasında; hata görürsen bize yaz.
+This page only holds **test builds** of the game. The game is in development; if you see a bug, let us know.
 
-## Nasıl oynanır (Windows)
+## How to play (Windows)
 
-1. **Steam'i aç** ve kendi hesabınla giriş yap.
-2. **İndir:** [en yeni test sürümü (zip)](https://github.com/ugurcagriyilmaz/HNE-Playtest/releases/latest/download/HighNoonExpress.zip)
-3. Zip'e sağ tıkla → **Tümünü ayıkla** → bir klasöre çıkar.
-4. Klasördeki **`HighNoonExpress.exe`**'ye çift tıkla.
-   - Windows "Bilgisayarınız korundu" derse: **Ek bilgi** → **Yine de çalıştır**.
-   - Güvenlik duvarı sorarsa: **İzin ver**.
-5. Oyun açılınca ana menü gelir:
-   - **Oyunu kuran kişi:** **Oyun kur**'a basar.
-   - **Katılanlar:** **Açık oyunlar** listesinde kurucunun adına basar (görünmüyorsa **Yenile**).
-     Ya da kurucu oyunda **Esc → Arkadaşını davet et** der, sen Steam'den gelen daveti kabul edersin (oyun açıkken).
+1. **Open Steam** and sign in with your own account.
+2. **Download:** [latest test build (zip)](https://github.com/ugurcagriyilmaz/HNE-Playtest/releases/latest/download/HighNoonExpress.zip)
+3. Right-click the zip → **Extract All** → extract to a folder.
+4. Double-click **`HighNoonExpress.exe`** in that folder.
+   - If Windows says "Windows protected your PC": **More info** → **Run anyway**.
+   - If the firewall asks: **Allow**.
+5. When the game opens you get the main menu:
+   - **The person hosting:** presses **Host a game**.
+   - **Everyone joining:** clicks the host's name in the **Open games** list (if it isn't there, **Refresh**).
+     Or the host picks **Esc → Invite a friend** in game and you accept the invite from Steam (with the game open).
 
-Steam'de oyun **"Spacewar"** diye görünür; bu normal, Steam'in test uygulamasını kullanıyoruz.
+Steam shows the game as **"Spacewar"**; that's normal, we use Steam's test app.
 
-## Oyunda
+## In the game
 
-- Her oyuncunun **kendi treni** var; kendi treninin lokomotifinde başlarsın. Trenin, uzaktan **sarı çizgiyle** belli olur.
-- Yürü: **W A S D**, bak: fare, zıpla: **Boşluk**, ateş: sol tık.
-- Trene bin: basamaklardan yürüyerek çık ya da içine gir; tren seni taşır. Vagondan vagona uç kapılardan geçilir.
-- **Treni sür:** lokomotife çık. **↑** gaz, **↓** fren, **← →** direksiyon, **P** otomatik sürüş.
-  Başkasının lokomotifine çıkarsan onunkini de sürersin; ikiniz birden basarsanız en son basan sürer.
-- **Esc:** menü (Ayarlar, Arkadaşını davet et, Bağlantıyı kes, Oyundan çık). Oyun durmaz.
+- Every player has **their own train**; you start on your train's locomotive. From afar your train is marked with a **yellow outline**.
+- Walk: **W A S D**, look: mouse, jump: **Space**, fire: left click.
+- Board a train: walk up the steps or go inside; the train carries you. Go from car to car through the end doors.
+- **Drive the train:** climb onto the locomotive. **↑** throttle, **↓** brake, **← →** steer, **P** autopilot.
+  If you climb onto someone else's locomotive you drive theirs too; if you both press, the last one to press drives.
+- **Esc:** menu (Settings, Invite a friend, Disconnect, Quit game). The game does not pause.
 
-## Yeni sürüm çıkınca
+## When a new build comes out
 
-Aynı linkten yeniden indir, yeni bir klasöre çıkar. Herkes **aynı sürümü** oynamalı (lobi listesinde farklı sürüm
-`[sürüm …]` diye yazar).
+Download again from the same link and extract to a new folder. Everyone must play the **same build** (a different
+build shows as `[version …]` in the lobby list).
 
-## Bir şey bozulursa
+## If something breaks
 
-Bu dosyayı bize gönder (her açılışta yeniden yazılır, hemen kopyala):
+Send us this file (it is rewritten every launch, so copy it right away):
 `%USERPROFILE%\AppData\LocalLow\Cagri Yilmaz\High Noon Express\Player.log`
