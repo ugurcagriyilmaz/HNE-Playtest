@@ -33,5 +33,7 @@ build shows as `[version …]` in the lobby list).
 
 ## If something breaks
 
+If you cannot connect, press **Open log folder** and send `Player.log`.
+
 Send us this file (it is rewritten every launch, so copy it right away):
 `%USERPROFILE%\AppData\LocalLow\Cagri Yilmaz\High Noon Express\Player.log`
